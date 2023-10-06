@@ -1,1 +1,1 @@
-# courser
+# course
